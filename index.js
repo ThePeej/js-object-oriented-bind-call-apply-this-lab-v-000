@@ -1,15 +1,15 @@
-justInvoke(fn) {
+function justInvoke(fn) {
   return fun()
 }
 
-setThisWithCall(fn, thisValue, arg) {
+function setThisWithCall(fn, thisValue, arg) {
 
 }
 
-setThisWithApply(fn, thisValue, args) {
+function setThisWithApply(fn, thisValue, args) {
 
 }
 
-returnNewFunctionOf(functionToBeCopied, thisValue) {
+function returnNewFunctionOf(functionToBeCopied, thisValue) {
 
 }
